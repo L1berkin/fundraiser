@@ -1,6 +1,6 @@
 <template>
-  <div class="about">
-    about page
+  <div class="wallet">
+    wallet page
   </div>
 </template>
 
@@ -8,6 +8,6 @@
 import { defineComponent } from 'vue';
 
 export default defineComponent({
-  name: 'AboutView',
+  name: 'WalletView',
 });
 </script>
